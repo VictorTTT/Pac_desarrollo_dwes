@@ -1,0 +1,132 @@
+h1 {
+    text-align: center;
+    color: #0F76A0;
+}
+
+table {
+    border-radius: 5px;
+    width: 50%;
+    background-color: lightgray;
+    border: 1px solid blue;
+    margin: auto;
+}
+
+#botonCrear{
+    border-radius: 5px;
+    width: 50%;
+    background-color: lightgray;
+    border: 1px solid blue;
+    margin:   auto auto -150px ;
+    padding:-340px;
+}
+#botonCrearNoticia{
+    border-radius: 5px;
+    width: 50%;
+    background-color: lightgray;
+    border: 1px solid blue;
+    margin:   auto auto -100px ;
+    padding:-340px;
+}
+
+#tabla_noticias{
+    border-radius: 5px;
+    width: 50%;
+    background-color: lightgray;
+    border: 1px solid blue;
+    margin:   -50px auto;
+    padding:-340px;
+}
+#tabla_usuarios{
+    border-radius: 5px;
+    width: 50%;
+    background-color: lightgray;
+    border: 1px solid blue;
+    margin:   -90px auto;
+    padding:-340px;
+}
+#tabla_inicio{
+    border-radius: 5px;
+    width: 50%;
+    background-color: lightgray;
+    border: 1px solid blue;
+    margin:   40px auto;
+    padding:-340px;
+}
+
+.container {
+    clear: both;
+    float: left;
+    overflow: hidden;
+    width: 100%;
+}
+
+#menu {
+    float: left;
+    left: 50%;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+}
+
+#menu li {
+    float: left;
+    margin: 5px;
+    padding-bottom: 15px;
+    position: relative;
+    right: 50%;
+}
+
+.izq {
+    text-align: right;
+}
+
+.der {
+    text-align: left;
+}
+
+td {
+    text-align: center;
+
+}
+
+#Titulo {
+    color: darkblue;
+
+}
+
+#Contenido{
+    padding-bottom: 25px;
+
+}
+
+
+#Autor {
+    float: none;
+    line-height: 0;
+}
+
+#texto-uno {
+    float: left;
+    line-height: 0;
+    padding-bottom: 25px;
+}
+
+#texto-dos {
+    float: right;
+    line-height: 0;
+    padding-bottom: 25px;
+
+}
+
+
+#exito {
+    text-align: center;
+    color: #1c7430;
+}
+
+#error {
+    text-align: center;
+    color: darkred;
+}
